@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://datavizforall.github.io/leaflet-maps-with-google-sheets/index.html
+- Leaflet Map https://malejs.github.io/MPKS_krautuves/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1q9zYVkpoLkV1ExaLX3e4sWsxpWu5mF64LuPE2iNWB6Q/edit#gid=0
 
 ## Create your own
