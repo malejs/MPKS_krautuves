@@ -909,7 +909,7 @@ $(window).on('load', function() {
 
     credit += 'Izstrādāja <a href="' + getSetting('_githubRepo') + '">MPKS Mežsaimnieks</a>';
     if (getSetting('_codeCredit')) credit += ' sadarbībā ar ' + getSetting('_codeCredit');
-    credit += ' with ';
+    credit += ' sadarbībā ar ';
     $('.leaflet-control-attribution')[0].innerHTML = credit + attributionHTML;
   }
 
