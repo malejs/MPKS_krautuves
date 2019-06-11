@@ -894,7 +894,7 @@ $(window).on('load', function() {
    */
   function changeAttribution() {
     var attributionHTML = $('.leaflet-control-attribution')[0].innerHTML;
-    var credit = 'View <a href="' + googleDocURL + '" target="_blank">data</a>';
+    var credit = 'Autora <a href="http://www.mezsaimnieks.lv/kontakti/" target="_blank">kontakti</a>';
     var name = getSetting('_authorName');
     var url = getSetting('_authorURL');
 
