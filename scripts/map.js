@@ -907,8 +907,8 @@ $(window).on('load', function() {
       credit += ' | ';
     }
 
-    credit += 'Apskatīt <a href="' + getSetting('_githubRepo') + '">lapu</a>';
-    if (getSetting('_codeCredit')) credit += ' no ' + getSetting('_codeCredit');
+    credit += 'Izstrādāja <a href="' + getSetting('_githubRepo') + '">MPKS Mežsaimnieks</a>';
+    if (getSetting('_codeCredit')) credit += ' sadarbībā ar ' + getSetting('_codeCredit');
     credit += ' with ';
     $('.leaflet-control-attribution')[0].innerHTML = credit + attributionHTML;
   }
